@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 Hello world
 Modificacao
+=======
+>>>>>>> parent of ac158c0 (Update de helloworld)
